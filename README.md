@@ -1,2 +1,2 @@
-# cssGridPractice1
+# CSS Grid Practice 1
 CSS Grid practice 1
